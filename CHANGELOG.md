@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2024-07-10)
+## 0.3.0 (2024-07-28)
 
 <section class="features">
 
@@ -51,6 +51,50 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 ## 0.2.1 (2024-02-24)
 
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.2.0">
+
+## 0.2.0 (2024-02-14)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`6b34523`](https://github.com/stdlib-js/stdlib/commit/6b3452322174342479d6c8b3277c3efee65d4cc0) - **docs:** update links _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.0">
+
+## 0.1.0 (2023-10-14)
+
 <section class="features">
 
 ### Features
@@ -77,7 +121,6 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <details>
 
--   [`6b34523`](https://github.com/stdlib-js/stdlib/commit/6b3452322174342479d6c8b3277c3efee65d4cc0) - **docs:** update links _(by Athan Reines)_
 -   [`a763ac4`](https://github.com/stdlib-js/stdlib/commit/a763ac4c03c49343e3f06ba93325f39a20da97cc) - **fix:** allow downcast from `float64` to `complex64` _(by Athan Reines)_
 -   [`eff3cdd`](https://github.com/stdlib-js/stdlib/commit/eff3cdd2245ee7c9265d38f2d31b49bc7f4400d8) - **feat:** add `ndarray/mostly-safe-casts` _(by Athan Reines)_
 
